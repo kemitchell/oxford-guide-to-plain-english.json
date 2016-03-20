@@ -917,16 +917,16 @@
         ]
       },
       {
-        "item": "not less than (ten)",
+        "item": "not less than",
         "alternatives": [
-          "at least (ten)"
+          "at least"
         ]
       },
       {
-        "item": "not more than (ten)",
+        "item": "not more than",
         "alternatives": [
-          "(ten) or less",
-          "(ten) or fewer"
+          "or less",
+          "or fewer"
         ]
       },
       {
