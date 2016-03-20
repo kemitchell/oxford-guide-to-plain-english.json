@@ -1,0 +1,1274 @@
+{
+  "word list": {
+    "title": "Plain English Word List",
+    "pages": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "items": [
+      {
+        "item": "accede",
+        "alternatives": [
+          "agree",
+          "grant",
+          "allow"
+        ]
+      },
+      {
+        "item": "accentuate",
+        "alternatives": [
+          "strengthen",
+          "emphasize"
+        ]
+      },
+      {
+        "item": "access",
+        "parenthetical": "verb",
+        "alternatives": [
+          "enter",
+          "use",
+          "gain entry"
+        ]
+      },
+      {
+        "item": "accordingly",
+        "alternatives": [
+          "so"
+        ]
+      },
+      {
+        "item": "accountability",
+        "alternatives": [
+          "responsibility for"
+        ]
+      },
+      {
+        "item": "accustomed to",
+        "alternatives": [
+          "used to"
+        ]
+      },
+      {
+        "item": "acquaint yourself",
+        "alternatives": [
+          "find out",
+          "read"
+        ]
+      },
+      {
+        "item": "additional",
+        "alternatives": [
+          "more",
+          "extra"
+        ]
+      },
+      {
+        "item": "address",
+        "sense": "consider",
+        "alternatives": [
+          "tackle",
+          "deal with",
+          "consider"
+        ]
+      },
+      {
+        "item": "advices",
+        "alternatives": [
+          "information",
+          "instructions"
+        ]
+      },
+      {
+        "item": "advise",
+        "sense": "inform",
+        "alternatives": [
+          "inform",
+          "tell",
+          "let [me] know"
+        ]
+      },
+      {
+        "item": "aforementioned",
+        "alternatives": [
+          "[omit or be specific]"
+        ]
+      },
+      {
+        "item": "aforesaid",
+        "alternatives": [
+          "[omit or be specific]"
+        ]
+      },
+      {
+        "item": "aggregate",
+        "parenthetical": "noun",
+        "alternatives": [
+          "total"
+        ]
+      },
+      {
+        "item": "alleviate",
+        "alternatives": [
+          "ease",
+          "reduce",
+          "lessen"
+        ]
+      },
+      {
+        "item": "allocate",
+        "alternatives": [
+          "give"
+        ]
+      },
+      {
+        "item": "ambit",
+        "alternatives": [
+          "scope"
+        ]
+      },
+      {
+        "item": "ambiguous",
+        "alternatives": [
+          "more than one meaning"
+        ]
+      },
+      {
+        "item": "annuity",
+        "alternatives": [
+          "pension",
+          "lifetime income"
+        ]
+      },
+      {
+        "item": "annul",
+        "alternatives": [
+          "cancel"
+        ]
+      },
+      {
+        "item": "apparent",
+        "alternatives": [
+          "clear",
+          "obvious"
+        ]
+      },
+      {
+        "item": "applicant",
+        "alternatives": [
+          "[use 'you' where possible]"
+        ]
+      },
+      {
+        "item": "apportion",
+        "alternatives": [
+          "split"
+        ]
+      },
+      {
+        "item": "apprise",
+        "alternatives": [
+          "inform",
+          "tell",
+          "let [me] know"
+        ]
+      },
+      {
+        "item": "appropriate",
+        "parenthetical": "adjective",
+        "alternatives": [
+          "suitable",
+          "right",
+          "proper"
+        ]
+      },
+      {
+        "item": "as a consequence of",
+        "alternatives": [
+          "because"
+        ]
+      },
+      {
+        "item": "ascertain",
+        "alternatives": [
+          "find out"
+        ]
+      },
+      {
+        "item": "assist",
+        "alternatives": [
+          "help"
+        ]
+      },
+      {
+        "item": "assistance",
+        "alternatives": [
+          "help"
+        ]
+      },
+      {
+        "item": "attain",
+        "alternatives": [
+          "reach"
+        ]
+      },
+      {
+        "item": "attribute",
+        "parenthetical": "verb",
+        "alternatives": [
+          "earmark"
+        ]
+      },
+      {
+        "item": "brainchild",
+        "alternatives": [
+          "idea"
+        ]
+      },
+      {
+        "item": "burgeon",
+        "alternatives": [
+          "grow",
+          "increase"
+        ]
+      },
+      {
+        "item": "category",
+        "alternatives": [
+          "group"
+        ]
+      },
+      {
+        "item": "cease",
+        "alternatives": [
+          "stop",
+          "end"
+        ]
+      },
+      {
+        "item": "cognizant of",
+        "alternatives": [
+          "aware of",
+          "know about"
+        ]
+      },
+      {
+        "item": "cohort",
+        "alternatives": [
+          "group [with shared characteristics]"
+        ]
+      },
+      {
+        "item": "collaborate",
+        "alternatives": [
+          "work together",
+          "work with"
+        ]
+      },
+      {
+        "item": "commence",
+        "alternatives": [
+          "start",
+          "begin"
+        ]
+      },
+      {
+        "item": "commencement date",
+        "alternatives": [
+          "start date"
+        ]
+      },
+      {
+        "item": "commensurate with",
+        "alternatives": [
+          "consistent with"
+        ]
+      },
+      {
+        "item": "component",
+        "alternatives": [
+          "part"
+        ]
+      },
+      {
+        "item": "compulsory",
+        "alternatives": [
+          "required",
+          "you must"
+        ]
+      },
+      {
+        "item": "concept",
+        "alternatives": [
+          "idea"
+        ]
+      },
+      {
+        "item": "concerning",
+        "alternatives": [
+          "about"
+        ]
+      },
+      {
+        "item": "consequently",
+        "alternatives": [
+          "so"
+        ]
+      },
+      {
+        "item": "considerable",
+        "alternatives": [
+          "large"
+        ]
+      },
+      {
+        "item": "constitutes",
+        "alternatives": [
+          "makes up",
+          "forms",
+          "is"
+        ]
+      },
+      {
+        "item": "construct",
+        "parenthetical": "verb",
+        "alternatives": [
+          "build"
+        ]
+      },
+      {
+        "item": "construe",
+        "alternatives": [
+          "interpret"
+        ]
+      },
+      {
+        "item": "corroboration",
+        "alternatives": [
+          "evidence",
+          "proof",
+          "support"
+        ]
+      },
+      {
+        "item": "deduct",
+        "alternatives": [
+          "take away",
+          "take off",
+          "subtract"
+        ]
+      },
+      {
+        "item": "deem",
+        "alternatives": [
+          "treat as",
+          "consider"
+        ]
+      },
+      {
+        "item": "defer",
+        "alternatives": [
+          "put off",
+          "postpone"
+        ]
+      },
+      {
+        "item": "deliverables",
+        "alternatives": [
+          "results",
+          "outputs",
+          "what we'll provide"
+        ]
+      },
+      {
+        "item": "designate",
+        "alternatives": [
+          "name",
+          "specify"
+        ]
+      },
+      {
+        "item": "desist",
+        "alternatives": [
+          "stop"
+        ]
+      },
+      {
+        "item": "dispatch",
+        "alternatives": [
+          "send"
+        ]
+      },
+      {
+        "item": "despatch",
+        "alternatives": [
+          "send"
+        ]
+      },
+      {
+        "item": "despite the fact that",
+        "alternatives": [
+          "although",
+          "despite"
+        ]
+      },
+      {
+        "item": "determine",
+        "alternatives": [
+          "decide"
+        ]
+      },
+      {
+        "item": "determine [legal sense]",
+        "alternatives": [
+          "end",
+          "terminate"
+        ]
+      },
+      {
+        "item": "detrimental",
+        "alternatives": [
+          "harmful"
+        ]
+      },
+      {
+        "item": "disburse",
+        "alternatives": [
+          "pay"
+        ]
+      },
+      {
+        "item": "discharge [verb]",
+        "alternatives": [
+          "pay off",
+          "settle"
+        ]
+      },
+      {
+        "item": "disconnect [verb]",
+        "alternatives": [
+          "cut off"
+        ]
+      },
+      {
+        "item": "discontinue",
+        "alternatives": [
+          "stop",
+          "end"
+        ]
+      },
+      {
+        "item": "due to the fact that",
+        "alternatives": [
+          "as",
+          "because"
+        ]
+      },
+      {
+        "item": "dwelling",
+        "alternatives": [
+          "home",
+          "property"
+        ]
+      },
+      {
+        "item": "domicile",
+        "alternatives": [
+          "home",
+          "property"
+        ]
+      },
+      {
+        "item": "egress",
+        "alternatives": [
+          "exit",
+          "way out"
+        ]
+      },
+      {
+        "item": "elect",
+        "alternatives": [
+          "choose",
+          "choice"
+        ]
+      },
+      {
+        "item": "election",
+        "alternatives": [
+          "choose",
+          "choice"
+        ]
+      },
+      {
+        "item": "emanate from",
+        "alternatives": [
+          "come from",
+          "stem from"
+        ]
+      },
+      {
+        "item": "endeavor",
+        "alternatives": [
+          "try",
+          "attempt"
+        ]
+      },
+      {
+        "item": "endeavour",
+        "alternatives": [
+          "try",
+          "attempt"
+        ]
+      },
+      {
+        "item": "enhance",
+        "alternatives": [
+          "improve"
+        ]
+      },
+      {
+        "item": "entitlement",
+        "alternatives": [
+          "right"
+        ]
+      },
+      {
+        "item": "envisage",
+        "alternatives": [
+          "expect",
+          "imagine",
+          "forecast",
+          "think"
+        ]
+      },
+      {
+        "item": "equitable",
+        "alternatives": [
+          "fair"
+        ]
+      },
+      {
+        "item": "erroneous",
+        "alternatives": [
+          "wrong",
+          "mistaken"
+        ]
+      },
+      {
+        "item": "establish",
+        "alternatives": [
+          "set up",
+          "create",
+          "form"
+        ]
+      },
+      {
+        "item": "eventuate",
+        "alternatives": [
+          "result",
+          "occur",
+          "happen"
+        ]
+      },
+      {
+        "item": "exhaustive",
+        "alternatives": [
+          "complete"
+        ]
+      },
+      {
+        "item": "expedite",
+        "alternatives": [
+          "hasten",
+          "speed up"
+        ]
+      },
+      {
+        "item": "expenditure",
+        "alternatives": [
+          "spending"
+        ]
+      },
+      {
+        "item": "expiration",
+        "alternatives": [
+          "end"
+        ]
+      },
+      {
+        "item": "facilitate",
+        "alternatives": [
+          "help"
+        ]
+      },
+      {
+        "item": "failure to",
+        "alternatives": [
+          "if you do not"
+        ]
+      },
+      {
+        "item": "for the duration of",
+        "alternatives": [
+          "during",
+          "while"
+        ]
+      },
+      {
+        "item": "for the purpose of",
+        "alternatives": [
+          "to"
+        ]
+      },
+      {
+        "item": "forward [verb]",
+        "alternatives": [
+          "send",
+          "give"
+        ]
+      },
+      {
+        "item": "frequently",
+        "alternatives": [
+          "often"
+        ]
+      },
+      {
+        "item": "fundamental",
+        "alternatives": [
+          "basic"
+        ]
+      },
+      {
+        "item": "furnish",
+        "alternatives": [
+          "give",
+          "provide"
+        ]
+      },
+      {
+        "item": "furthermore",
+        "alternatives": [
+          "also"
+        ]
+      },
+      {
+        "item": "henceforth",
+        "alternatives": [
+          "from now on"
+        ]
+      },
+      {
+        "item": "heretofore",
+        "alternatives": [
+          "until now"
+        ]
+      },
+      {
+        "item": "herewith",
+        "alternatives": [
+          "with this"
+        ]
+      },
+      {
+        "item": "hitherto",
+        "alternatives": [
+          "until now"
+        ]
+      },
+      {
+        "item": "hypothecate",
+        "alternatives": [
+          "earmark"
+        ]
+      },
+      {
+        "item": "if this is not the case",
+        "alternatives": [
+          "if not"
+        ]
+      },
+      {
+        "item": "if this is the case",
+        "alternatives": [
+          "if so"
+        ]
+      },
+      {
+        "item": "impart",
+        "alternatives": [
+          "give",
+          "pass on",
+          "tell",
+          "inform"
+        ]
+      },
+      {
+        "item": "implement [verb]",
+        "alternatives": [
+          "carry out",
+          "do"
+        ]
+      },
+      {
+        "item": "in accordance with",
+        "alternatives": [
+          "in line with"
+        ]
+      },
+      {
+        "item": "inasmuch as",
+        "alternatives": [
+          "because",
+          "in that"
+        ]
+      },
+      {
+        "item": "incidence",
+        "alternatives": [
+          "rate of occurrence",
+          "how often"
+        ]
+      },
+      {
+        "item": "inception",
+        "alternatives": [
+          "start"
+        ]
+      },
+      {
+        "item": "in conjunction with",
+        "alternatives": [
+          "with"
+        ]
+      },
+      {
+        "item": "increment",
+        "alternatives": [
+          "step",
+          "increase"
+        ]
+      },
+      {
+        "item": "indebtedness",
+        "alternatives": [
+          "debt"
+        ]
+      },
+      {
+        "item": "indemnify",
+        "alternatives": [
+          "fully protect against loss"
+        ]
+      },
+      {
+        "item": "ingress",
+        "alternatives": [
+          "entry",
+          "way in",
+          "comes in"
+        ]
+      },
+      {
+        "item": "initiate",
+        "alternatives": [
+          "begin",
+          "start"
+        ]
+      },
+      {
+        "item": "in lieu of",
+        "alternatives": [
+          "instead of"
+        ]
+      },
+      {
+        "item": "in order to",
+        "alternatives": [
+          "to"
+        ]
+      },
+      {
+        "item": "in receipt of",
+        "alternatives": [
+          "get",
+          "have",
+          "receive",
+          "receiving"
+        ]
+      },
+      {
+        "item": "in regard to",
+        "alternatives": [
+          "about",
+          "concerning",
+          "on"
+        ]
+      },
+      {
+        "item": "insofar as",
+        "alternatives": [
+          "as far as"
+        ]
+      },
+      {
+        "item": "institute [verb]",
+        "alternatives": [
+          "begin",
+          "start"
+        ]
+      },
+      {
+        "item": "interim [noun]",
+        "alternatives": [
+          "meantime",
+          "for the time being"
+        ]
+      },
+      {
+        "item": "in the event of",
+        "alternatives": [
+          "if",
+          "when"
+        ]
+      },
+      {
+        "item": "in the eventuality of",
+        "alternatives": [
+          "if",
+          "when"
+        ]
+      },
+      {
+        "item": "in view of the fact that",
+        "alternatives": [
+          "as",
+          "because"
+        ]
+      },
+      {
+        "item": "irrevocable",
+        "alternatives": [
+          "cannot be reversed or changed"
+        ]
+      },
+      {
+        "item": "juncture",
+        "alternatives": [
+          "point",
+          "time"
+        ]
+      },
+      {
+        "item": "mandatory",
+        "alternatives": [
+          "required by law",
+          "(you) must"
+        ]
+      },
+      {
+        "item": "manner",
+        "alternatives": [
+          "way"
+        ]
+      },
+      {
+        "item": "monies",
+        "alternatives": [
+          "money",
+          "amounts of money"
+        ]
+      },
+      {
+        "item": "necessitate",
+        "alternatives": [
+          "need",
+          "have to",
+          "require"
+        ]
+      },
+      {
+        "item": "nevertheless",
+        "alternatives": [
+          "even so",
+          "however",
+          "yet"
+        ]
+      },
+      {
+        "item": "nonetheless",
+        "alternatives": [
+          "even so",
+          "however",
+          "yet"
+        ]
+      },
+      {
+        "item": "not less than (ten)",
+        "alternatives": [
+          "at least (ten)"
+        ]
+      },
+      {
+        "item": "not more than (ten)",
+        "alternatives": [
+          "(ten) or less",
+          "(ten) or fewer"
+        ]
+      },
+      {
+        "item": "notwithstanding",
+        "alternatives": [
+          "even if",
+          "despite",
+          "still",
+          "yet",
+          "but"
+        ]
+      },
+      {
+        "item": "obtain",
+        "alternatives": [
+          "get",
+          "receive"
+        ]
+      },
+      {
+        "item": "onus",
+        "alternatives": [
+          "burden",
+          "duty"
+        ]
+      },
+      {
+        "item": "other than",
+        "alternatives": [
+          "except"
+        ]
+      },
+      {
+        "item": "particulars",
+        "alternatives": [
+          "details",
+          "facts"
+        ]
+      },
+      {
+        "item": "persons",
+        "alternatives": [
+          "people"
+        ]
+      },
+      {
+        "item": "perpetrator",
+        "alternatives": [
+          "(alleged) wrongdoing"
+        ]
+      },
+      {
+        "item": "peruse",
+        "alternatives": [
+          "read or study carefully",
+          "examine"
+        ]
+      },
+      {
+        "item": "polemical",
+        "alternatives": [
+          "controversial"
+        ]
+      },
+      {
+        "item": "predominantly",
+        "alternatives": [
+          "mainly"
+        ]
+      },
+      {
+        "item": "principal [adjective]",
+        "alternatives": [
+          "main",
+          "chief"
+        ]
+      },
+      {
+        "item": "prioritize",
+        "alternatives": [
+          "rank"
+        ]
+      },
+      {
+        "item": "prior to",
+        "alternatives": [
+          "before"
+        ]
+      },
+      {
+        "item": "provenance",
+        "alternatives": [
+          "source",
+          "origin"
+        ]
+      },
+      {
+        "item": "provided that",
+        "alternatives": [
+          "if"
+        ]
+      },
+      {
+        "item": "provisions [of a law, policy]",
+        "alternatives": [
+          "the law",
+          "the policy"
+        ]
+      },
+      {
+        "item": "purchase",
+        "alternatives": [
+          "buy"
+        ]
+      },
+      {
+        "item": "purport [verb]",
+        "alternatives": [
+          "pretend",
+          "claim",
+          "profess"
+        ]
+      },
+      {
+        "item": "pursuant to",
+        "alternatives": [
+          "under"
+        ]
+      },
+      {
+        "item": "reduction",
+        "alternatives": [
+          "cut"
+        ]
+      },
+      {
+        "item": "regarding",
+        "alternatives": [
+          "about"
+        ]
+      },
+      {
+        "item": "reimburse",
+        "alternatives": [
+          "repay"
+        ]
+      },
+      {
+        "item": "remittance",
+        "alternatives": [
+          "payment"
+        ]
+      },
+      {
+        "item": "remuneration",
+        "alternatives": [
+          "pay",
+          "wages",
+          "salary"
+        ]
+      },
+      {
+        "item": "remunerative employment",
+        "alternatives": [
+          "paid work"
+        ]
+      },
+      {
+        "item": "render",
+        "alternatives": [
+          "send",
+          "make",
+          "give"
+        ]
+      },
+      {
+        "item": "representations",
+        "alternatives": [
+          "comments"
+        ]
+      },
+      {
+        "item": "reside",
+        "alternatives": [
+          "live"
+        ]
+      },
+      {
+        "item": "residence",
+        "alternatives": [
+          "home",
+          "property",
+          "address"
+        ]
+      },
+      {
+        "item": "save [conjunction]",
+        "alternatives": [
+          "except"
+        ]
+      },
+      {
+        "item": "shall [legal obligation]",
+        "alternatives": [
+          "must"
+        ]
+      },
+      {
+        "item": "stipulate",
+        "alternatives": [
+          "state",
+          "set",
+          "lay down"
+        ]
+      },
+      {
+        "item": "subsequently",
+        "alternatives": [
+          "then",
+          "later"
+        ]
+      },
+      {
+        "item": "sufficient",
+        "alternatives": [
+          "enough"
+        ]
+      },
+      {
+        "item": "supplementary",
+        "alternatives": [
+          "extra",
+          "more"
+        ]
+      },
+      {
+        "item": "terminate",
+        "alternatives": [
+          "end",
+          "stop"
+        ]
+      },
+      {
+        "item": "the law provides that",
+        "alternatives": [
+          "the law says"
+        ]
+      },
+      {
+        "item": "thereafter",
+        "alternatives": [
+          "then",
+          "afterwards"
+        ]
+      },
+      {
+        "item": "the way in which",
+        "alternatives": [
+          "how"
+        ]
+      },
+      {
+        "item": "timeously",
+        "alternatives": [
+          "in good time"
+        ]
+      },
+      {
+        "item": "tranche",
+        "alternatives": [
+          "slice",
+          "portion",
+          "share",
+          "chunk"
+        ]
+      },
+      {
+        "item": "utilize",
+        "alternatives": [
+          "use"
+        ]
+      },
+      {
+        "item": "verify",
+        "alternatives": [
+          "check",
+          "prove"
+        ]
+      },
+      {
+        "item": "whensoever",
+        "alternatives": [
+          "when",
+          "whenever"
+        ]
+      },
+      {
+        "item": "whereby",
+        "alternatives": [
+          "by which",
+          "because of which"
+        ]
+      },
+      {
+        "item": "whilst",
+        "alternatives": [
+          "while"
+        ]
+      },
+      {
+        "item": "willfully",
+        "alternatives": [
+          "deliberately"
+        ]
+      },
+      {
+        "item": "wilfully",
+        "alternatives": [
+          "deliberately"
+        ]
+      },
+      {
+        "item": "willfully",
+        "alternatives": [
+          "deliberately"
+        ]
+      },
+      {
+        "item": "with reference to",
+        "alternatives": [
+          "about",
+          "concerning"
+        ]
+      },
+      {
+        "item": "with regard to",
+        "alternatives": [
+          "about",
+          "concerning"
+        ]
+      },
+      {
+        "item": "with respect to",
+        "alternatives": [
+          "about",
+          "for",
+          "concerning"
+        ]
+      }
+    ]
+  }
+}
