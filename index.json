@@ -1514,5 +1514,123 @@
       "within",
       "with regards to"
     ]
+  },
+  "confused": {
+    "title": "Words often confused",
+    "pages": [
+      44,
+      45
+    ],
+    "items": [
+      {
+        "item": "affect",
+        "parenthetical": "verb"
+      },
+      {
+        "item": "effect",
+        "parenthetical": "verb"
+      },
+      {
+        "item": "affect",
+        "parenthetical": "noun"
+      },
+      {
+        "item": "criteria"
+      },
+      {
+        "item": "criterion"
+      },
+      {
+        "item": "desserts"
+      },
+      {
+        "item": "deserts"
+      },
+      {
+        "item": "defused"
+      },
+      {
+        "item": "diffuse",
+        "parenthetical": "verb"
+      },
+      {
+        "item": "discreet"
+      },
+      {
+        "item": "discrete"
+      },
+      {
+        "item": "flaunt"
+      },
+      {
+        "item": "flout"
+      },
+      {
+        "item": "hone"
+      },
+      {
+        "item": "imply"
+      },
+      {
+        "item": "infer"
+      },
+      {
+        "item": "incidence"
+      },
+      {
+        "item": "incident"
+      },
+      {
+        "item": "instance"
+      },
+      {
+        "item": "mitigate"
+      },
+      {
+        "item": "militate"
+      },
+      {
+        "item": "minuscule"
+      },
+      {
+        "item": "miniscule"
+      },
+      {
+        "item": "moot"
+      },
+      {
+        "item": "mute"
+      },
+      {
+        "item": "phenomena"
+      },
+      {
+        "item": "principle"
+      },
+      {
+        "item": "principal"
+      },
+      {
+        "item": "refute"
+      },
+      {
+        "item": "rebut"
+      },
+      {
+        "item": "deny"
+      },
+      {
+        "item": "reject"
+      },
+      {
+        "item": "repudiate"
+      },
+      {
+        "item": "restaurateur"
+      },
+      {
+        "item": "restauranteur"
+      }
+    ]
   }
 }
