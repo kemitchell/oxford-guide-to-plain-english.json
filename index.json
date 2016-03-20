@@ -1282,5 +1282,148 @@
         ]
       }
     ]
+  },
+  "frequency count": {
+    "title": "Frequency count",
+    "pages": [
+      32,
+      33
+    ],
+    "items": [
+      {
+        "item": "accordingly",
+        "alternatives": [
+          "so"
+        ]
+      },
+      {
+        "item": "advices",
+        "alternatives": [
+          "information",
+          "instructions"
+        ]
+      },
+      {
+        "item": "attain",
+        "alternatives": [
+          "reach"
+        ]
+      },
+      {
+        "item": "category",
+        "alternatives": [
+          "group"
+        ]
+      },
+      {
+        "item": "cease",
+        "alternatives": [
+          "stop"
+        ]
+      },
+      {
+        "item": "commence",
+        "alternatives": [
+          "begin"
+        ]
+      },
+      {
+        "item": "concept",
+        "alternatives": [
+          "idea"
+        ]
+      },
+      {
+        "item": "entitlement",
+        "alternatives": [
+          "right"
+        ]
+      },
+      {
+        "item": "forward",
+        "parenthetical": "verb",
+        "alternatives": [
+          "send"
+        ]
+      },
+      {
+        "item": "initiate",
+        "alternatives": [
+          "begin"
+        ]
+      },
+      {
+        "item": "in the event of",
+        "alternatives": [
+          "if"
+        ]
+      },
+      {
+        "item": "moinies",
+        "alternatives": [
+          "money"
+        ]
+      },
+      {
+        "item": "notwithstanding",
+        "alternatives": [
+          "despite"
+        ]
+      },
+      {
+        "item": "particulars",
+        "alternatives": [
+          "details"
+        ]
+      },
+      {
+        "item": "persons",
+        "alternatives": [
+          "people"
+        ]
+      },
+      {
+        "item": "prior to",
+        "alternatives": [
+          "before"
+        ]
+      },
+      {
+        "item": "purchase",
+        "alternatives": [
+          "buy"
+        ]
+      },
+      {
+        "item": "regarding",
+        "alternatives": [
+          "about"
+        ]
+      },
+      {
+        "item": "shall",
+        "alternatives": [
+          "must"
+        ]
+      },
+      {
+        "item": "terminate",
+        "alternatives": [
+          "end"
+        ]
+      },
+      {
+        "item": "utilize / utilise",
+        "alternatives": [
+          "use"
+        ]
+      },
+      {
+        "item": "whilst",
+        "alternatives": [
+          "while"
+        ]
+      }
+    ]
   }
 }
