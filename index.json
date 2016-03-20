@@ -425,7 +425,8 @@
         ]
       },
       {
-        "item": "determine [legal sense]",
+        "item": "determine",
+        "parenthetical": "legal sense",
         "alternatives": [
           "end",
           "terminate"
@@ -444,14 +445,16 @@
         ]
       },
       {
-        "item": "discharge [verb]",
+        "item": "discharge",
+        "parenthetical": "verb",
         "alternatives": [
           "pay off",
           "settle"
         ]
       },
       {
-        "item": "disconnect [verb]",
+        "item": "disconnect",
+        "parenthetical": "verb",
         "alternatives": [
           "cut off"
         ]
@@ -627,7 +630,8 @@
         ]
       },
       {
-        "item": "forward [verb]",
+        "item": "forward",
+        "parenthetical": "verb",
         "alternatives": [
           "send",
           "give"
@@ -710,7 +714,8 @@
         ]
       },
       {
-        "item": "implement [verb]",
+        "item": "implement",
+        "parenthetical": "verb",
         "alternatives": [
           "carry out",
           "do"
@@ -818,14 +823,16 @@
         ]
       },
       {
-        "item": "institute [verb]",
+        "item": "institute",
+        "parenthetical": "verb",
         "alternatives": [
           "begin",
           "start"
         ]
       },
       {
-        "item": "interim [noun]",
+        "item": "interim",
+        "parenthetical": "noun",
         "alternatives": [
           "meantime",
           "for the time being"
@@ -991,7 +998,8 @@
         ]
       },
       {
-        "item": "principal [adjective]",
+        "item": "principal",
+        "parenthetical": "adjective",
         "alternatives": [
           "main",
           "chief"
@@ -1023,7 +1031,8 @@
         ]
       },
       {
-        "item": "provisions [of a law, policy]",
+        "item": "provisions",
+        "parenthetical": "of a law, policy",
         "alternatives": [
           "the law",
           "the policy"
@@ -1036,7 +1045,8 @@
         ]
       },
       {
-        "item": "purport [verb]",
+        "item": "purport",
+        "parenthetical": "verb",
         "alternatives": [
           "pretend",
           "claim",
@@ -1116,13 +1126,15 @@
         ]
       },
       {
-        "item": "save [conjunction]",
+        "item": "save",
+        "parenthetical": "conjunction",
         "alternatives": [
           "except"
         ]
       },
       {
-        "item": "shall [legal obligation]",
+        "item": "shall",
+        "parenthetical": "legal obligation",
         "alternatives": [
           "must"
         ]
