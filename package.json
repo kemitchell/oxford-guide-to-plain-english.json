@@ -1,6 +1,6 @@
 {
   "name": "oxford-plain-english",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "lists of words and suggestions in the Oxford Guide to Plain English",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/oxford-plain-english.json",
